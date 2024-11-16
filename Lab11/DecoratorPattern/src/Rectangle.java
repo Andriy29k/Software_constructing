@@ -1,0 +1,3 @@
+interface Rectangle {
+    void draw();
+}
